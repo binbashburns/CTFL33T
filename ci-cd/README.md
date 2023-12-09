@@ -1,0 +1,1 @@
+# CI/CD pipeline definitions (e.g., Jenkinsfile, GitLab/GitHub CI)
